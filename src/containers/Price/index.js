@@ -1,15 +1,7 @@
 import React from 'react';
 import Typography from 'material-ui/Typography';
 import { withStyles } from 'material-ui/styles';
-import 'react-select/dist/react-select.css';
-import Snackbar from 'material-ui/Snackbar';
-import { CircularProgress } from 'material-ui/Progress';
-import Table, { TableBody, TableCell, TableHead, TableRow } from 'material-ui/Table';
-import Paper from 'material-ui/Paper';
-import RightButtons from 'components/RightButtons';
 import CenterBlock from 'components/CenterBlock';
-import withRoot from 'withRoot';
-import { InsuranceAPI } from 'api/InsuranceAPI';
 
 const styles = theme => ({
   root: {
