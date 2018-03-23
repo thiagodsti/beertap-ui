@@ -2,6 +2,7 @@ import React from 'react';
 import Typography from 'material-ui/Typography';
 import { withStyles } from 'material-ui/styles';
 import CenterBlock from 'components/CenterBlock';
+import withRoot from 'withRoot';
 
 const styles = theme => ({
   root: {
