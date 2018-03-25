@@ -10,7 +10,7 @@ The admin of this application where you can check the users and their tracks you
 
 ### Requirements
 
-- JDK 8
+- Yarn
 
 ### Live
 
